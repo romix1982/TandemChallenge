@@ -119,14 +119,14 @@ In additional, the solution is ready to use Entity Framework as a ORM.
 ## Tandem Challenge Web API in action
 
 In the next image, you can see a Post response using Finddler Tool.
-![alt text](https://github.com/romix1982/acucafe/blob/master/AcuView.png)
+![alt text](Post.png)
 
 in the following image, you can see a Get response which shows all messages saved.
-![alt text](https://github.com/romix1982/acucafe/blob/master/AcuView.png)
+![alt text](GetAll.png)
 
 And in this last image, you can see some Get response with the userId “Simon” as a parameter
 
-![alt text](https://github.com/romix1982/acucafe/blob/master/AcuView.png)
+![alt text](GETsimon.png)
 
 About Security, the solution should implement  SSL or token authentication to resolve the actual vulnerability.
 
